@@ -1,6 +1,6 @@
 # Le-demi-soustracteur (Half-subtractor)
 
-Ce repository enregistre l'ensemble des fichiers Ltspice créés durant l'activité "Le demi-soustracteur (Half-subtractor)"
+Ce repository enregistre l'ensemble des fichiers QSpice créés durant l'activité "Le demi-soustracteur (Half-subtractor)"
 Plus de détails, vous pouvez vous faire référence à : <a href="https://electro-robot.com/les-activites/le-demi-soustracteur-half-subtractor-travaux-diriges" rel="dofollow">Le-demi-soustracteur (Half-subtractor)</a>
 
 # C'est quoi l'apprentissage avec Electro-Robot ?
